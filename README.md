@@ -1,7 +1,7 @@
 # wifi-debug-xyz
 Date Created 2022-03-05
 
-## HOW TO USE?
+## HOW TO USE
 
 ### WiFi Info Debug (Option 1)
 Option One Mainly Just Shows all of your net stats, nice and simple.
@@ -34,7 +34,33 @@ Exits Script, Self Explanitory if You Ask Me.
 
 ### By Accessing Verion RED, You Accept All of The Responibility of the Damages __YOU__ May Make, XYZ Will Not Be Responsible For Any Responsibilities.
 
-like seriously, did you read it properly?
+__like seriously, did you read it properly?__
+
+## Accessing Verion RED
+Accessing version RED is quite simple. Enter 404 in the input bar and press enter, you will be approached with a pop up, after reading the pop ups press enter, (by reading the popups you agree to the Statements listed above or in the popups). after clicking through all of the popups, a new window will open, this window will look exactly like the previous program,but instead red (hence the name Version RED) it also has many many more programs and execution then the base version, but these can actually do some damage.
+
+## HOW TO USE VERSION RED
+
+Upon Opening Version RED, There are many diffrent options to use, they can harm your device or the ones around you so please follow along)
+
+### Option 1 & 2
+options 1 and 2 are the same as the standard version, so go read those.
+
+### Virtual Private Network (V.P.N) (Option 3)
+This Option will provide you with the choice to use a V.P.N but you can choose where you want to connect to, enter the IPv4 into the input box, and if you have entered the right IP format it will connect, IP LOCATION MUST BE A WILLING LOCATION TO CONNECT, OR WILLING SERVER.
+
+1) Launch Version RED
+
+2) Press 3 on Keypad / Keyboard
+
+3) Enter IPv4 (Correct Format (FAQ for HELP))
+
+4) Press Enter (if it is your first time, windows will ask you to accept the VPN configuration)
+
+### Distributed Denial Of Service (D.D.O.S) (Option 4)
+(W.I.P)
+
+
 ## FAQS
 ### What Is The Script's Main Purpose?
 well, there are many purposes to this Script, mainly network purposes. Option #1 (WiFi info debug) is meant to help you find all of your data, such as, your home IPv4 Address, IPv6 Address, HostName, Router Name, Router Lease, basically anything to do with your home network. Option #2 (Access Log), provides you with all of the IP's your device has ever connected to, (Dynamic means physical IP's (Router, Physical Connections)), (Static meaning VPN(Virtual Private Network)). Option #3 mainly just exits the script, has a nice greeting to make you feel more welcomed.
