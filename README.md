@@ -1,4 +1,4 @@
-# wifi-debug-xyz
+# WiFi Debugg Created by XYZ²
 Date Created 2022-03-05
 
 ## HOW TO USE
@@ -86,5 +86,6 @@ can find every windows device's IP connected to the local network.
 
 
 ## FAQS
-### What Is The Script's Main Purpose?
+### What Is The Script's Purpose?
 well, there are many purposes to this Script, mainly network purposes. Option #1 (WiFi info debug) is meant to help you find all of your data, such as, your home IPv4 Address, IPv6 Address, HostName, Router Name, Router Lease, basically anything to do with your home network. Option #2 (Access Log), provides you with all of the IP's your device has ever connected to, (Dynamic means physical IP's (Router, Physical Connections)), (Static meaning VPN(Virtual Private Network)). Option #3 mainly just exits the script, has a nice greeting to make you feel more welcomed.
+
