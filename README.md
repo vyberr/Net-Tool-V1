@@ -60,6 +60,30 @@ This Option will provide you with the choice to use a V.P.N but you can choose w
 ### Distributed Denial Of Service (D.D.O.S) (Option 4)
 (W.I.P)
 
+### Remote Shutdown (Option 5)
+this function provides you with the ability to shutdown windows devices connected to the same network as your devices
+
+1) Launch Version RED
+
+2) Press 5 on your Keyboard / Keypad
+
+3) Dialogue box will pop up onto your screen
+
+4) Enter victims IPv4 or Device Name
+
+5) Fill out the rest of the information 
+
+6) Press Ok or Enter
+
+### Connected Devices (Option 6)
+can find every windows device's IP connected to the local network.
+
+1) Launch Version RED
+
+2) Press 6 in your Keyboard / Keypad
+
+3) A pop up will come up, with all your desired information
+
 
 ## FAQS
 ### What Is The Script's Main Purpose?
