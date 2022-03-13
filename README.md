@@ -91,4 +91,4 @@ well, there are many purposes to this Script, mainly network purposes. Option #1
 
 ## Questions
 
-if you have any questions about the script, please contact me through discord, throught the Lotus discord server 'https://discord.gg/wpBC6gdZKg'
+if you have any questions about the script, please contact me through discord, through the Lotus discord server 'https://discord.gg/wpBC6gdZKg'
